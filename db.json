@@ -1,0 +1,196 @@
+{
+    "pricing": {
+        "2": {
+            "id": 2,
+            "description": "30 MINUTES",
+            "timekit_project_id": "e22aac41-d4e4-4a00-b262-2d250847118b",
+            "slug": "30_MINS_SLUG",
+            "name": "30 MINUTES MASSAGE",
+            "created_at": "2019-10-12T19:20:30.000000Z",
+            "updated_at": "2019-10-12T19:20:30.000000Z",
+            "deleted_at": null,
+            "length": "30 minutes",
+            "buffer": "15 minutes",
+            "default": false,
+            "mobile_name": "30 MINS",
+            "project_pricings": {
+                "id": 1,
+                "project_id": 2,
+                "start_date": "2019-10-11T18:00:00.000000Z",
+                "end_date": null,
+                "amount": "42.86",
+                "created_at": "2019-10-12T19:44:39.000000Z",
+                "updated_at": "2019-10-12T19:44:39.000000Z",
+                "taxes": 5,
+                "taxlabel": "SK GST 5 "
+            }
+        },
+        "3": {
+            "id": 3,
+            "description": "45 MINUTES",
+            "timekit_project_id": "d5860d98-0745-4aba-80f5-5f4828e3ea36",
+            "slug": "45_MINS_SLUG",
+            "name": "45 MINUTES MASSAGE",
+            "created_at": "2019-10-12T19:21:50.000000Z",
+            "updated_at": "2019-10-12T19:21:51.000000Z",
+            "deleted_at": null,
+            "length": "45 minutes",
+            "buffer": "15 minutes",
+            "default": false,
+            "mobile_name": "45 MINS",
+            "project_pricings": {
+                "id": 2,
+                "project_id": 3,
+                "start_date": "2019-10-10T18:00:00.000000Z",
+                "end_date": null,
+                "amount": "57.14",
+                "created_at": "2019-10-12T19:46:22.000000Z",
+                "updated_at": "2019-10-12T19:46:22.000000Z",
+                "taxes": 5,
+                "taxlabel": "SK GST 5 "
+            }
+        },
+        "4": {
+            "id": 4,
+            "description": "60 MINUTES",
+            "timekit_project_id": "11ea0b21-7242-42ba-a527-b113dee0fa54",
+            "slug": "60_MINS_SLUG",
+            "name": "60 MINUTES MASSAGE",
+            "created_at": "2019-10-12T19:31:42.000000Z",
+            "updated_at": "2019-10-12T19:31:42.000000Z",
+            "deleted_at": null,
+            "length": "60 minutes",
+            "buffer": "15 minutes",
+            "default": true,
+            "mobile_name": "60 MINS",
+            "project_pricings": {
+                "id": 3,
+                "project_id": 4,
+                "start_date": "2019-10-10T18:00:00.000000Z",
+                "end_date": null,
+                "amount": "71.43",
+                "created_at": "2019-10-12T19:46:44.000000Z",
+                "updated_at": "2019-10-12T19:46:44.000000Z",
+                "taxes": 5,
+                "taxlabel": "SK GST 5 "
+            }
+        },
+        "5": {
+            "id": 5,
+            "description": "75 MINUTES",
+            "timekit_project_id": "88121c9a-97de-41ed-9cc3-782d8685ab81",
+            "slug": "75_MINS_SLUG",
+            "name": "75 MINUTES MASSAGE",
+            "created_at": "2019-10-12T19:36:35.000000Z",
+            "updated_at": "2019-10-12T19:36:36.000000Z",
+            "deleted_at": null,
+            "length": "75 minutes",
+            "buffer": "15 minutes",
+            "default": false,
+            "mobile_name": "75 MINS",
+            "project_pricings": {
+                "id": 4,
+                "project_id": 5,
+                "start_date": "2019-10-10T18:00:00.000000Z",
+                "end_date": null,
+                "amount": "90.48",
+                "created_at": "2019-10-12T19:47:09.000000Z",
+                "updated_at": "2019-10-12T19:47:09.000000Z",
+                "taxes": 5,
+                "taxlabel": "SK GST 5 "
+            }
+        },
+        "6": {
+            "id": 6,
+            "description": "90 MINUTES",
+            "timekit_project_id": "39bcf9b9-8790-4d14-8462-148c4981b462",
+            "slug": "90_MINS_SLUG",
+            "name": "90 MINUTES MASSAGE",
+            "created_at": "2019-10-12T19:42:25.000000Z",
+            "updated_at": "2019-10-12T19:42:25.000000Z",
+            "deleted_at": null,
+            "length": "90 minutes",
+            "buffer": "15 minutes",
+            "default": false,
+            "mobile_name": "90 MINS",
+            "project_pricings": {
+                "id": 5,
+                "project_id": 6,
+                "start_date": "2019-10-10T18:00:00.000000Z",
+                "end_date": null,
+                "amount": "109.52",
+                "created_at": "2019-10-12T19:48:59.000000Z",
+                "updated_at": "2019-10-12T19:48:59.000000Z",
+                "taxes": 5,
+                "taxlabel": "SK GST 5 "
+            }
+        },
+        "7": {
+            "id": 7,
+            "description": "120 MINUTES",
+            "timekit_project_id": "b17ef09e-8eca-47c5-8c15-051eea793131",
+            "slug": "120_MINS_SLUG",
+            "name": "120 MINUTES MASSAGE",
+            "created_at": "2019-10-12T19:43:32.000000Z",
+            "updated_at": "2019-10-12T19:43:33.000000Z",
+            "deleted_at": null,
+            "length": "120 minutes",
+            "buffer": "15 minutes",
+            "default": false,
+            "mobile_name": "120 MINS",
+            "project_pricings": {
+                "id": 6,
+                "project_id": 7,
+                "start_date": "2019-10-10T18:00:00.000000Z",
+                "end_date": null,
+                "amount": "147.62",
+                "created_at": "2019-10-12T19:49:19.000000Z",
+                "updated_at": "2019-10-12T19:49:19.000000Z",
+                "taxes": 5,
+                "taxlabel": "SK GST 5 "
+            }
+        }
+    },
+    "services": [
+        {
+            "id": 1,
+            "code": "PN",
+            "description": "PRE NATAL",
+            "deleted_at": null,
+            "created_at": null,
+            "updated_at": null,
+            "speciality_photo": null,
+            "default": false
+        },
+        {
+            "id": 2,
+            "code": "R",
+            "description": "RELAXATION",
+            "deleted_at": null,
+            "created_at": null,
+            "updated_at": null,
+            "speciality_photo": null,
+            "default": false
+        },
+        {
+            "id": 3,
+            "code": "T",
+            "description": "THERAPEUTIC",
+            "deleted_at": null,
+            "created_at": null,
+            "updated_at": null,
+            "speciality_photo": null,
+            "default": true
+        },
+        {
+            "id": 4,
+            "code": "DT",
+            "description": "DEEP TISSUE",
+            "deleted_at": null,
+            "created_at": null,
+            "updated_at": null,
+            "speciality_photo": null,
+            "default": false
+        }
+    ]
+}
