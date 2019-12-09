@@ -1,5 +1,5 @@
 {
-    "pricing": {
+    "getAllProjectAndPricings": {
         "2": {
             "id": 2,
             "description": "30 MINUTES",
@@ -151,7 +151,7 @@
             }
         }
     },
-    "services": [
+    "getAllSpecialities": [
         {
             "id": 1,
             "code": "PN",
